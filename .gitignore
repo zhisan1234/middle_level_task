@@ -1,0 +1,16 @@
+# Keil MDK-ARM 编译产物（对所有工程递归生效）
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.map
+*.htm
+*.lnp
+*.dep
+*.lst
+*.build_log.htm
+*.iex
+
+# Keil 用户个人界面布局（不同人打开不一样，不要上传）
+*.uvguix.*
